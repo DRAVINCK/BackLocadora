@@ -1,0 +1,946 @@
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.exe
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.deps.json
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.runtimeconfig.json
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\dotnet-ef.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\staticwebassets\msbuild.LocadoraAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.LocadoraAPI.props
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LocadoraAPI.props
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LocadoraAPI.props
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\scopedcss\bundle\LocadoraAPI.styles.css
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.csproj.CopyComplete
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\refint\LocadoraAPI.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI\obj\Debug\net7.0\ref\LocadoraAPI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.exe
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.deps.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.runtimeconfig.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\dotnet-ef.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.csproj.AssemblyReference.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.AssemblyInfoInputs.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.AssemblyInfo.cs
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.csproj.CoreCompileInputs.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\staticwebassets\msbuild.LocadoraAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.LocadoraAPI.props
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LocadoraAPI.props
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LocadoraAPI.props
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\scopedcss\bundle\LocadoraAPI.styles.css
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.csproj.CopyComplete
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\refint\LocadoraAPI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.genruntimeconfig.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\obj\Debug\net7.0\ref\LocadoraAPI.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\appsettings.json
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.exe
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.deps.json
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.runtimeconfig.json
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\dotnet-ef.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.LocadoraAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.build.LocadoraAPI.props
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LocadoraAPI.props
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LocadoraAPI.props
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\scopedcss\bundle\LocadoraAPI.styles.css
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.CopyComplete
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\refint\LocadoraAPI.dll
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\não apagaaaaaaaa\LocadoraAPI-main\obj\Debug\net7.0\ref\LocadoraAPI.dll
+c:\Users\helena\Downloads\LocadoraAPI_CONTEM_A_MAIN\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.csproj.AssemblyReference.cache
+c:\Users\helena\Downloads\LocadoraAPI_CONTEM_A_MAIN\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\helena\Downloads\LocadoraAPI_CONTEM_A_MAIN\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.AssemblyInfoInputs.cache
+c:\Users\helena\Downloads\LocadoraAPI_CONTEM_A_MAIN\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.AssemblyInfo.cs
+c:\Users\helena\Downloads\LocadoraAPI_CONTEM_A_MAIN\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.csproj.CoreCompileInputs.cache
+c:\Users\helena\Downloads\LocadoraAPI_CONTEM_A_MAIN\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\helena\Downloads\LocadoraAPI_CONTEM_A_MAIN\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\helena\Downloads\LocadoraAPI_CONTEM_A_MAIN\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.dll
+c:\Users\helena\Downloads\LocadoraAPI_CONTEM_A_MAIN\LocadoraAPI\obj\Debug\net7.0\refint\LocadoraAPI.dll
+c:\Users\helena\Downloads\LocadoraAPI_CONTEM_A_MAIN\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.exe
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.deps.json
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.runtimeconfig.json
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\dotnet-ef.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets\msbuild.LocadoraAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.LocadoraAPI.props
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LocadoraAPI.props
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LocadoraAPI.props
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\scopedcss\bundle\LocadoraAPI.styles.css
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.csproj.CopyComplete
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\refint\LocadoraAPI.dll
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\ref\LocadoraAPI.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\refint\LocadoraAPI.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.exe
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.deps.json
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.runtimeconfig.json
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\dotnet-ef.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets\msbuild.LocadoraAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.LocadoraAPI.props
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LocadoraAPI.props
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LocadoraAPI.props
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\scopedcss\bundle\LocadoraAPI.styles.css
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.csproj.CopyComplete
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\ref\LocadoraAPI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.exe
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.deps.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.runtimeconfig.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\dotnet-ef.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.csproj.AssemblyReference.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.AssemblyInfoInputs.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.AssemblyInfo.cs
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.csproj.CoreCompileInputs.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets\msbuild.LocadoraAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.LocadoraAPI.props
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LocadoraAPI.props
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LocadoraAPI.props
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\scopedcss\bundle\LocadoraAPI.styles.css
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.csproj.CopyComplete
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\refint\LocadoraAPI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\LocadoraAPI.genruntimeconfig.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\LocadoraAPI\LocadoraAPI\obj\Debug\net7.0\ref\LocadoraAPI.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\appsettings.json
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.exe
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.deps.json
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.runtimeconfig.json
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\dotnet-ef.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.AssemblyReference.cache
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.AssemblyInfoInputs.cache
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.AssemblyInfo.cs
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.LocadoraAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.build.LocadoraAPI.props
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LocadoraAPI.props
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LocadoraAPI.props
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\scopedcss\bundle\LocadoraAPI.styles.css
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.CopyComplete
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\refint\LocadoraAPI.dll
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.genruntimeconfig.cache
+C:\Users\Aluno\Pictures\Projeto-LocadoraAPI-main\Projeto-LocadoraAPI-main\obj\Debug\net7.0\ref\LocadoraAPI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\appsettings.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.exe
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.deps.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.runtimeconfig.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\dotnet-ef.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.AssemblyReference.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.AssemblyInfoInputs.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.AssemblyInfo.cs
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.CoreCompileInputs.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.LocadoraAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.build.LocadoraAPI.props
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LocadoraAPI.props
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LocadoraAPI.props
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\scopedcss\bundle\LocadoraAPI.styles.css
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.CopyComplete
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\refint\LocadoraAPI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.genruntimeconfig.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Projeto Locadora Carros v1\Projeto-LocadoraAPI-main\obj\Debug\net7.0\ref\LocadoraAPI.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.AssemblyReference.cache
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.AssemblyInfoInputs.cache
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.AssemblyInfo.cs
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\refint\LocadoraAPI.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\appsettings.json
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.exe
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.deps.json
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.runtimeconfig.json
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\dotnet-ef.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.LocadoraAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.build.LocadoraAPI.props
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LocadoraAPI.props
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LocadoraAPI.props
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\scopedcss\bundle\LocadoraAPI.styles.css
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.CopyComplete
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.genruntimeconfig.cache
+C:\Users\Aluno\Pictures\Nathalia\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\ref\LocadoraAPI.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\appsettings.json
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.exe
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.deps.json
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.runtimeconfig.json
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\dotnet-ef.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.AssemblyReference.cache
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.AssemblyInfoInputs.cache
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.AssemblyInfo.cs
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.LocadoraAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.build.LocadoraAPI.props
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LocadoraAPI.props
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LocadoraAPI.props
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\scopedcss\bundle\LocadoraAPI.styles.css
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.CopyComplete
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\refint\LocadoraAPI.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.genruntimeconfig.cache
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\ref\LocadoraAPI.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\appsettings.json
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.exe
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.deps.json
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.runtimeconfig.json
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\dotnet-ef.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.AssemblyReference.cache
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.AssemblyInfoInputs.cache
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.AssemblyInfo.cs
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.LocadoraAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.build.LocadoraAPI.props
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LocadoraAPI.props
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LocadoraAPI.props
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\scopedcss\bundle\LocadoraAPI.styles.css
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.CopyComplete
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\refint\LocadoraAPI.dll
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.genruntimeconfig.cache
+C:\Users\Aluno\Pictures\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\ref\LocadoraAPI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\appsettings.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.exe
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.deps.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.runtimeconfig.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\dotnet-ef.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.AssemblyReference.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.AssemblyInfoInputs.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.AssemblyInfo.cs
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.CoreCompileInputs.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.LocadoraAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.build.LocadoraAPI.props
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LocadoraAPI.props
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LocadoraAPI.props
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\scopedcss\bundle\LocadoraAPI.styles.css
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.CopyComplete
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\refint\LocadoraAPI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.genruntimeconfig.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\locadora-de-carros-main-master\Projeto-LocadoraAPI-main\obj\Debug\net7.0\ref\LocadoraAPI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\appsettings.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.exe
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.deps.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.runtimeconfig.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\dotnet-ef.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.AssemblyReference.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.AssemblyInfoInputs.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.AssemblyInfo.cs
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.CoreCompileInputs.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.LocadoraAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.build.LocadoraAPI.props
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LocadoraAPI.props
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LocadoraAPI.props
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\scopedcss\bundle\LocadoraAPI.styles.css
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.csproj.CopyComplete
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\refint\LocadoraAPI.dll
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.pdb
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\LocadoraAPI.genruntimeconfig.cache
+C:\Users\Teixe\OneDrive\Documentos\Faculdade\DesenvolvimenteDeSoftwareVisual\Locadora-de-Veiculos\Projeto-LocadoraAPI-main\obj\Debug\net7.0\ref\LocadoraAPI.dll
